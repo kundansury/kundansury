@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kundan Suryawanshi </h1>
-<br><br>- 🔭 I’m currently working on Adopt1-Food and Education for souls in need.
-<br><br>- 🌱 I’m currently learning SQL, DSA and Web Development
-<br><br>- 💬 Ask me about Team Management and Team Work
-<br><br>- 📫 How to reach me kundan.u.s02@gmail.com
-<br><br>- 📄 Know about my experiences https://drive.google.com/file/d/1UIaKW_7O3VefxSrbsoO8x9yKLMHsJuVJ/view?usp=sharing
-<br>
-<br>
+<br><br>- 📫 reach me kundan.u.s02@gmail.com
+
+
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
