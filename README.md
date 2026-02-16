@@ -11,4 +11,4 @@ Outside of code, I spend time leading tech communities, building teams, and turn
 ## Get in touch
 
 LinkedIn: [https://www.linkedin.com/in/kundansurya/](https://www.linkedin.com/in/kundansurya/)
-GitHub: [https://github.com/kundansury](https://github.com/kundansury)
+
